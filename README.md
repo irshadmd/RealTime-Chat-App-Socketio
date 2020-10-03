@@ -22,6 +22,6 @@ Then run:
 npm start
 ```
 
-goto your browser and visit localhost:3000 and start chatting.
+Goto your browser and visit localhost:3000 and start chatting.
 
 
